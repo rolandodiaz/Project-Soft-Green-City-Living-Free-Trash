@@ -1,5 +1,4 @@
                                              ๑۩۞۩๑ (BIENVENIDOS) ๑۩۞۩๑
-                                                                                    
 Project-Soft-Green-City-Living-Free-Trash
 =========================================
 
