@@ -1,4 +1,3 @@
-
  ██████╗ ██╗███████╗███╗   ██╗██╗   ██╗███████╗███╗   ██╗██╗██████╗  ██████╗ ███████╗
  ██╔══██╗██║██╔════╝████╗  ██║██║   ██║██╔════╝████╗  ██║██║██╔══██╗██╔═══██╗██╔════╝
  ██████╔╝██║█████╗  ██╔██╗ ██║██║   ██║█████╗  ██╔██╗ ██║██║██║  ██║██║   ██║███████╗
@@ -16,6 +15,7 @@ Este sub-proyecto de entorno social y 'COLABORATIVO' forma la parte de desarroll
 
 
 El proyecto se basa en el desarrollo de un sistema Inteligente y Sofisticado, que integrará en su desarrollo tecnologías como Arduino, RaspberryPi, Python, Linux, ADSL, Switch CISCO, Router CISCO, Android, y otros.
+
 ╔═══╗  
 ║███║  
 ║  ●║ 
