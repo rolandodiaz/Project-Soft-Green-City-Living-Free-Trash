@@ -1,10 +1,5 @@
- ██████╗ ██╗███████╗███╗   ██╗██╗   ██╗███████╗███╗   ██╗██╗██████╗  ██████╗ ███████╗
- ██╔══██╗██║██╔════╝████╗  ██║██║   ██║██╔════╝████╗  ██║██║██╔══██╗██╔═══██╗██╔════╝
- ██████╔╝██║█████╗  ██╔██╗ ██║██║   ██║█████╗  ██╔██╗ ██║██║██║  ██║██║   ██║███████╗
- ██╔══██╗██║██╔══╝  ██║╚██╗██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██║██║  ██║██║   ██║╚════██║
- ██████╔╝██║███████╗██║ ╚████║ ╚████╔╝ ███████╗██║ ╚████║██║██████╔╝╚██████╔╝███████║
- ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═══╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚═╝╚═════╝  ╚═════╝ ╚══════╝
 
+                                             ๑۩۞۩๑ (BIENVENIDOS) ๑۩۞۩๑
                                                                                     
 Project-Soft-Green-City-Living-Free-Trash
 =========================================
@@ -15,11 +10,11 @@ Este sub-proyecto de entorno social y 'COLABORATIVO' forma la parte de desarroll
 
 
 El proyecto se basa en el desarrollo de un sistema Inteligente y Sofisticado, que integrará en su desarrollo tecnologías como Arduino, RaspberryPi, Python, Linux, ADSL, Switch CISCO, Router CISCO, Android, y otros.
+________________________________
 
-╔═══╗  
-║███║  
-║  ●║ 
-╚═══╝ 
+GREEN CITY LIVING FREE OF TRASH
+█║▌│█│║▌║││█║▌│║▌║
+________________________________
 
 Si desean saber más del proyecto no duden en escribir a: yenner2025@hotmail.com   -> las consultas seran atentidas a partir de Agosto 2014.
 
